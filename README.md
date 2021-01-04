@@ -22,6 +22,10 @@
 - Produce an analytics report where you provide a description of your pipeline
   and some basic analysis of the events. Explaining the pipeline is key for this project!
 
+- Submit your work as a git PR as usual. AFTER you have received feedback you have to merge 
+  the branch yourself and answer to the feedback in a comment. Your grade will not be 
+  complete unless this is done!
+
 Use a notebook to present your queries and findings. Remember that this
 notebook should be appropriate for presentation to someone else in your
 business who needs to act on your recommendations. 
