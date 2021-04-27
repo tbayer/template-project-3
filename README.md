@@ -5,7 +5,7 @@
 - Your latest mobile game has two events you're interested in tracking: `buy a
   sword` & `join guild`
 
-- Each has metadata characterstic of such events (i.e., sword type, guild name,
+- Each has metadata characteristic of such events (i.e., sword type, guild name,
   etc)
 
 
@@ -69,7 +69,7 @@ Using the git command line: clone down the repo, leave the master branch untouch
 - Create an assignment branch `git branch assignment`
 - Checkout the assignment branch `git checkout assignment`
 
-The previous steps only need to be done once.  Once you your clone is on the assignment branch it will remain on that branch unless you checkout another branch.
+The previous steps only need to be done once.  Once your clone is on the assignment branch it will remain on that branch unless you checkout another branch.
 
 The project workflow follows this pattern, which may be repeated as many times as needed.  In fact it's best to do this frequently as it saves your work into GitHub in case your virtual machine becomes corrupt:
 - Make changes to existing files as needed.
